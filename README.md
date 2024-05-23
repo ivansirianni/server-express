@@ -11,4 +11,5 @@ Creación de un server web por primera vez, utilizando mis primeras herramientas
 3. En la terminal, ejecutar: `npm install`
 4. Dirigirse al archivo `.env.template` y realizar un archivo con tu propia variable de entorno llamado `.env` siguiendo el ejemplo de la plantilla compartida. **Recomendado PORT:3000 y carpeta PUBLIC**
 5. Ya estas listo para levantar la app. Desde la terminal, puedes ejecutar: `npm run dev`
+6. Para abrir la app en el navegador, puedes ingresar en chrome `localhost:3000` en caso que configures tu `PORT: 3000`
 Espero que les guste! Aceptaría todo tipo de feedback y consejos para seguir aprendiendo.

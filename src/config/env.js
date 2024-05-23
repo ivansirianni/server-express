@@ -7,5 +7,5 @@ const envs = {
 }
 
 module.exports = {
-    envs
+   envs
 }
