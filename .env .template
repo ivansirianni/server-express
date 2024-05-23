@@ -1,2 +1,2 @@
-PORT=
-PUBLIC_PATH=
+PORT=coloca_tu_puerto_pegado_al_igual(solo acepta numeros. ej: PORT:5200)
+PUBLIC_PATH=public
